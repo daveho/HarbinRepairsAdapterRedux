@@ -29,6 +29,18 @@ here: <https://github.com/HarbinRepairs/Dell-Optiplex-MB-Header-Adapters>
 
 However, I was not able to make changes to the KiCad project for
 the 20 pin adapter PCB because the filenames are too long.
+Also, when I tried to open the PCB design for the 20 pin adapter,
+I could not see any traces, but the rats nest also showed that
+there were no unconnected nets. I think this might have something
+to do with an autorouter being used in the original PCB design.
+In any case, I created an entirely new PCB design for this adapter,
+based on the original schematic.
+
+## Do they work?
+
+Yes, they do work. I am currently using them in a system. Note that there
+are some minor design flaws in the v0.1 designs that I am planning to fix
+in the v0.2 design.
 
 ## License
 
