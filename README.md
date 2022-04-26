@@ -1,6 +1,7 @@
 # Improved Harbin Repairs Adapter PCBs
 
-This repo has modified versions of the Harbin Repairs adapter PCBs
+This repo has modified versions of the
+[Harbin Repairs](https://harbinrepairs.com/) adapter PCBs
 for Haswell Optiplex systems (Optiplex 7020, Optiplex 9020,
 Optiplex XE2, and Precision T1700.)
 
@@ -41,6 +42,16 @@ based on the original schematic.
 Yes, they do work. I am currently using them in a system. Note that there
 are some minor design flaws in the v0.1 designs that I am planning to fix
 in the v0.2 design.
+
+Here are previews of the v0.2 designs:
+
+![5-6 pin power switch adapter preview](img/6pin_power_v0_2.png)
+
+![20 pin front panel adapter preview](img/20pin_frontpanel_v0_2.png)
+
+I *think* these revised designs will correct the issues in the v0.1 designs.
+I've sent them to [OSH Park](https://oshpark.com/) for fabrication:
+assuming they work correctly, I will create a new release.
 
 ## License
 
