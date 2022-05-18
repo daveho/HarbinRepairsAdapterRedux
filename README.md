@@ -42,7 +42,7 @@ based on the original schematic.
 ## Do they work?
 
 Yes, they do work. I made a video in which I populate and test both
-adapters: *link to video coming soon*
+adapters: <https://youtu.be/Dam3fpzKUps>
 
 ## Fabrication and construction
 
