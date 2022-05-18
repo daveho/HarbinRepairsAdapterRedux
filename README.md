@@ -56,7 +56,7 @@ Part | Needed for | Note
 ---- | ---------- | ----
 [0805 470 Ohm surface-mount resistor](https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRG0805F470R/2380909) | 20-pin adapter | Exact value is not critical
 [2x10 2mm female header](https://www.digikey.com/en/products/detail/sullins-connector-solutions/NPPN102AFCN-RC/804795) | 20-pin adapter | connects to 2x10 male header on motherboard
-2x5 2.54mm male header | 20-pin adapter | HD audio: remove second pin from bottom row
+2x5 2.54mm male header | 20-pin adapter | HD audio: remove second pin in bottom row
 2x5 2.54mm male header | 20-pin adapter | USB2: remove first pin in top row
 1x2 2.54mm male header | 20-pin adapter | HD LED
 [2x3 2mm female header](https://www.digikey.com/en/products/detail/sullins-connector-solutions/NPPN032AFCN-RC/804788) | 5/6-pin adapter | connects to 5 pin header on motherboard
