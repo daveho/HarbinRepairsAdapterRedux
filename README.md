@@ -1,6 +1,6 @@
 # Improved Harbin Repairs Adapter PCBs
 
-![photo of the adapter PCBs](img/v02_adapters.png)
+![photo of the adapter PCBs](img/v02_adapters.jpg)
 
 This repo has modified versions of the
 [Harbin Repairs](https://harbinrepairs.com/) adapter PCBs
